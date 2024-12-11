@@ -14,7 +14,7 @@ Este proyecto es el backend para una aplicación de gestión de usuarios y plant
 1. Clona el repositorio:
 
     ```sh
-    git clone https://github.com/tu_usuario/tu_repositorio_backend.git
+    git clone https://github.com/PeterThrs/api-laravel-backend.git
     cd tu_repositorio_backend
     ```
 
@@ -77,4 +77,4 @@ Inicia el servidor de desarrollo:
 
 ```sh
 php artisan serve
-    ```
+    
